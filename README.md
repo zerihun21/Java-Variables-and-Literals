@@ -13,7 +13,13 @@ To indicate the storage area, each variable should be given a unique name (ident
 Here's how we create a variable in Java,
 
 ```
-int speedLimit = 80;
+int age  = 29;
 ```
 
-Here, speedLimit is a variable of int data type and we have assigned value 80 to it.
+Here, age is a variable of int data type and we have assigned value 29 to it.
+
+
+## Rules for Naming Variables in Java
+
+### Java is case sensitive. H
+ence, age and AGE are two different variables. For example,
