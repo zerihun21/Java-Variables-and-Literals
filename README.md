@@ -1,5 +1,15 @@
 # Java-Variables-and-Literals
-Java Variables and Literals
+
+
+### Java literals
+
+Literals are data used for representing fixed values. They can be used directly in the code. For example,
+```
+int a = 1;
+float b = 2.5;
+char c = 'F';
+```
+Here, 1, 2.5, and 'F' are literals.
 
 
 ## Java Variables
