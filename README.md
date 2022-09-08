@@ -1,7 +1,7 @@
 # Java-Variables-and-Literals
 
 
-### Java literals
+## Java literals
 
 Literals are data used for representing fixed values. They can be used directly in the code. For example,
 ```
